@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Coroutines-Android</string>
     <string name="get">get</string>
+    <string name="non_block">non blocking UI call test</string>
+    <string name="api_error">Something went wrong...</string>
+    <string name="request">Requesting...</string>
 </resources>
