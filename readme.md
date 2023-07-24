@@ -1,6 +1,10 @@
 # NewsApp
 
-NewsApp is an Android application that allows users to read news articles from various sources.
+NewsApp is an Android application that allows users to read news articles.
+
+## Architecture Used - MVVM Multimodule
+
+![](https://github.com/Aks-4125/Coroutines-Android/blob/master/architecture.jpg)
 
 ## Features
 
